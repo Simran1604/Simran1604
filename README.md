@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fgithub&psig=AOvVaw0CpsJH__w2XCZI_HNrwbVY&ust=1628574653665000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDqrb-fo_ICFQAAAAAdAAAAABAK" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Simran Pattnaik</h1>
 <h3 align="center">Freshman at IIIT- Bhubaneswar. Passionate about app development and coding.</h3>
 
@@ -55,6 +53,7 @@
 
 <br/>
 <br/>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ## Connect with me:
 <p align="left">
@@ -64,8 +63,6 @@
 <a href = "https://www.instagram.com/_shimmerin_pattnaik/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="mailto:simran251601@gmail.com"><img  alt="Gmail" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height="50px" width="auto" />
     
-    <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 </p>
 
 ##  Views and Followers
