@@ -25,7 +25,7 @@
     
 </p>
 <p align="center"> 
-    <img alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/getpostman/getpostman-original.svg" height="50px" width="auto"  />
+    <img alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50px" width="auto"  />
     <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" width="auto"  />
     <img alt="gitbash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50px" width="auto"  />    
 </p>
@@ -58,7 +58,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/simran-pattnaik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/simran-pattnaik-529a59206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/shimmerinP"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_shimmerin_pattnaik/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="mailto:simran251601@gmail.com"><img  alt="Gmail" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height="50px" width="auto" />
