@@ -62,6 +62,9 @@
 <a href = "https://www.linkedin.com/in/simran-pattnaik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/shimmerinP"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_shimmerin_pattnaik/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="mailto:simran251601@gmail.com"><img  alt="Gmail" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height="50px" width="auto" />
+    
+    <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 </p>
 
