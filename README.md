@@ -16,14 +16,20 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://flutter.dev/" target="_blank" width="45" height="45"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNw5f-lbW1FfA19Z8BZu_uoi851Zk3QO1dQ&usqp=CAU"/>
-    <a href="https://dart.dev/"  target="_blank" width="45" height="45"> <img src="https://www.google.com/search?q=dart+programming+language+icon&tbm=isch&source=iu&ictx=1&fir=9LcGB6wNyBmXpM%252C158Ffxmrpqhs4M%252C_&vet=1&usg=AI4_-kRPeZVYyNvt78r3QaQBrL3J5qFM_w&sa=X&ved=2ahUKEwi-xcykoKPyAhWJzTgGHb2tBUsQ9QF6BAgSEAE#imgrc=9LcGB6wNyBmXpM"/> </a> 
-    <a href="https://www.java.com" target="_blank" width="45" height="45"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-        <a href="https://www.learn-c.org/" target="_blank" width="45" height="45"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F40670%2Fc-programming&psig=AOvVaw0iExGFxvEmXagWaliTyhAB&ust=1628574971737000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMivudago_ICFQAAAAAdAAAAABAD"/> </a> 
+<p align="center"> 
+    <img alt="flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50px" width="auto"  />
+    <img alt="dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50px" width="auto"  />
+    <img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" width="auto"  />    
+    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" width="auto"  />
+    <img alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="auto"  />
+    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="auto"  />
+    <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" width="auto"  />
     
-    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png""/> </a> 
-    <a style="padding-right:8px;" href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> </a>
+</p>
+<p align="center"> 
+    <img alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50px" width="auto"  />
+    <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" width="auto"  />
+    <img alt="gitbash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50px" width="auto"  />    
 </p>
 <br/>
 
