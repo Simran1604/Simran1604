@@ -4,11 +4,11 @@
 
 ## 🙋♂️ About Me
 
-- 🔭 I’m currently working on **[Flutter]**
+- 🔭 I’m currently working on **FitMe**
 
-- 🌱 I’m currently learning **Working with APIs**
+- 🌱 I’m currently learning **WFirebase Firestore**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Flutter projects**
 
 - 📫 How to reach me **simran251601@gmail.com**
 
