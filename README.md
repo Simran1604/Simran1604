@@ -27,8 +27,10 @@
 <p align="center"> 
     <img alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50px" width="auto"  />
     <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" width="auto"  />
-    <img alt="gitbash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50px" width="auto"  />    
-</p>
+    <img alt="gitbash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50px" width="auto"  />
+    <img alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="50px" width="auto"  />
+    
+
 <br/>
 
 <p align="center">
