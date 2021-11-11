@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **FitMe**
 
-- 🌱 I’m currently learning **Firebase Firestore**
+- 🌱 I’m currently learning **Hive**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
