@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **talawa**
 
-- 🌱 I’m currently learning **Hive**
+- 🌱 I’m currently learning **Writing test cases in Flutter**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
