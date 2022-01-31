@@ -4,7 +4,7 @@
 
 ## 🙋♂️ About Me
 
-- 🔭 I’m currently working on **FitMe**
+- 🔭 I’m currently working on **talawa**
 
 - 🌱 I’m currently learning **Hive**
 
