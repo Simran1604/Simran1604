@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Simran Pattnaik</h1>
-<h3 align="center">Sophomore at IIIT- Bhubaneswar. Passionate about app development and coding.</h3>
+<h3 align="center">Junior at IIIT- Bhubaneswar. Passionate about app development and coding.</h3>
 
 
 ## 🙋♂️ About Me
