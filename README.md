@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI/ML**
 
-- 🌱 I’m currently learning **Writing test cases in Flutter**
+- 🌱 I’m currently learning **LLMs in Gen AI**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
